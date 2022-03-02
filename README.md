@@ -1,1 +1,1 @@
-# introduction-to-computers
+# intro
